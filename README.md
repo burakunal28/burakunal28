@@ -31,8 +31,7 @@
   <p style="display: inline-block; vertical-align: middle;">I don't stop at the frontend—I'm proficient in a range of technologies, including
     <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>,
     <img src="img/node-js.svg" width="18px" height="18px"> <b>Node.js</b>,
-    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and also
-    <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, enabling me to tackle backend development and more.
+    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, enabling me to tackle backend development and more.
   </p>
 </div>
 
@@ -49,8 +48,7 @@
         <img src="img/harmonyos.svg" width="18px" height="18px"> <b>HarmonyOS</b>,
         <img src="img/webos.svg" width="18px" height="18px"> <b>WebOS</b>,
         <img src="img/macos.svg" width="18px" height="18px"> <b>macOS</b>,
-        <img src="img/linux.svg" width="18px" height="18px"> <b>Linux</b>, and also
-        <img src="img/windows.svg" width="18px" height="18px"> <b>Windows</b>
+        <img src="img/linux.svg" width="18px" height="18px"> <b>Linux</b>, and <img src="img/windows.svg" width="18px" height="18px"> <b>Windows</b>
   </p>
 </div>
 
