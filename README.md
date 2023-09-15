@@ -15,11 +15,6 @@
     <img src="img/react-native.svg" width="18px" height="18px"> <b>React Native</b> and desktop application development with
     <img src="img/electron.svg" width="18px" height="18px"> <b>Electron</b>.
   </p>
-  <p style="display: inline-block; vertical-align: middle;">I'm not an expert in backend development, but I'm currently learning various technologies, including
-    <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>,
-    <img src="img/node-js.svg" width="18px" height="18px"> <b>Node.js</b>,
-    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, in order to support my projects.
-  </p>
 </div>
 
 <div align="center">
@@ -37,7 +32,7 @@
 </div>
 
 <div align="center">
-  <h2><img src="img/swift.svg" width="28px" height="28px" style="vertical-align: middle;"> Swift Developer and more 🍏</h2>
+  <h2><img src="img/swift.svg" width="28px" height="28px" style="vertical-align: middle;"> Swift Development and more 🍏</h2>
   <p>I've already made strides in learning Swift, and my proficiency continues to grow. I'm on a path to design and develop applications across a spectrum of platforms, including
         <img src="img/ios.svg" width="18px" height="18px"> <b>iOS</b>,
         <img src="img/android.svg" width="18px" height="18px"> <b>Android</b>,
@@ -46,7 +41,13 @@
         <img src="img/macos.svg" width="18px" height="18px"> <b>macOS</b>,
         <img src="img/linux.svg" width="18px" height="18px"> <b>Linux</b>, and <img src="img/windows.svg" width="18px" height="18px"> <b>Windows</b>
   </p>
+  <p style="display: inline-block; vertical-align: middle;">I'm not an expert in backend development, but I'm currently learning various technologies, including
+    <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>,
+    <img src="img/node-js.svg" width="18px" height="18px"> <b>Node.js</b>,
+    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, in order to support my projects.
+  </p>
 </div>
+
 
 <!-- Contact Section -->
 <div align="center">
