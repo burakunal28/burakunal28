@@ -15,6 +15,11 @@
     <img src="img/react-native.svg" width="18px" height="18px"> <b>React Native</b> and desktop application development with
     <img src="img/electron.svg" width="18px" height="18px"> <b>Electron</b>.
   </p>
+  <p style="display: inline-block; vertical-align: middle;">I'm not an expert in backend development, but I'm currently learning various technologies, including
+    <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>,
+    <img src="img/node-js.svg" width="18px" height="18px"> <b>Node.js</b>,
+    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, in order to support my projects.
+  </p>
 </div>
 
 <div align="center">
@@ -23,15 +28,6 @@
     <img src="img/bootstrap.svg" width="18px" height="18px"> <b>Bootstrap</b>,
     <img src="img/tailwind.svg" width="18px" height="18px"> <b>Tailwind CSS</b> and
     <img src="img/sass.svg" width="18px" height="18px"> <b>SASS</b> to craft sleek and captivating user experiences.
-  </p>
-</div>
-
-<div align="center">
-  <h2>💻 Backend and More 💡</h2>
-  <p style="display: inline-block; vertical-align: middle;">I don't stop at the frontend—I'm proficient in a range of technologies, including
-    <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>,
-    <img src="img/node-js.svg" width="18px" height="18px"> <b>Node.js</b>,
-    <img src="img/mongodb.svg" width="18px" height="18px"> <b>MongoDB</b>, and <img src="img/graphql.svg" width="18px" height="18px"> <b>GraphQL</b>, enabling me to tackle backend development and more.
   </p>
 </div>
 
