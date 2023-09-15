@@ -56,7 +56,7 @@
 <div align="center">
   <h3>Get in Touch 📞</h3>
   <p>If you're interested in my projects or want to collaborate, don't hesitate to reach out!</p>
-  <a href="https://linktr.ee/burakunal18px"><strong>Personal Website</strong></a>
+  <a href="https://linktr.ee/burakunal28"><strong>Personal Website</strong></a>
 </div>
 
 <!-- Projects Section -->
@@ -65,8 +65,8 @@
   <p>Here are some of the projects I've had the pleasure of working on:</p>
   <table>
     <tr>
-      <td><a href="https://burakunal18px.github.io/colorful-notes">Colorful Notes</a></td>
-      <td><a href="https://burakunal18px.github.io/prusa-social">Prusa Social</a></td>
+      <td><a href="https://burakunal28.github.io/colorful-notes">Colorful Notes</a></td>
+      <td><a href="https://burakunal28.github.io/prusa-social">Prusa Social</a></td>
       <td><a href="https://www.figma.com/@burakunal">Design Projects</a></td>
     </tr>
   </table>
