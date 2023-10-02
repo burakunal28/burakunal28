@@ -30,7 +30,7 @@
   <p style="display: inline-block; vertical-align: middle;">
     I utilize various development environments including 
     <img src="img/visual-studio.svg" width="18px" height="18px"> <b>Visual Studio</b>, 
-    <img src="img/visual-studio-code.svg" width="18px" height="18px"> <b>VS Code</b>, and 
+    <img src="img/vs-code.svg" width="18px" height="18px"> <b>VS Code</b>, and 
     <img src="img/remix.png" width="18px" height="18px"> <b>Remix</b>. 
     Version control is a breeze for me thanks to 
     <img src="img/git.svg" width="18px" height="18px"> <b>Git</b> and 
