@@ -17,14 +17,14 @@
     My expertise spans technologies such as 
     <img src="img/react.svg" width="18px" height="18px"> <b>React.js</b>, 
     <img src="img/angular.svg" width="18px" height="18px"> <b>Angular.js</b>, 
-    <img src="img/vue-js.svg" width="18px" height="18px"> <b>Vue.js</b>, 
     <img src="img/next-js.svg" width="18px" height="18px"> <b>Next.js</b>,
     <img src="img/aspnet-core.svg" width="18px" height="18px"> <b>ASP.NET Core</b>, 
     <img src="img/django.svg" width="18px" height="18px"> <b>Django</b>, and 
     <img src="img/flask.svg" width="18px" height="18px"> <b>Flask</b>. 
     I am also proficient in blockchain development using
-    <img src="img/solidity.svg" width="18px" height="18px"> <b>Solidity</b>, and
-    <img src="img/etherjs.svg" width="18px" height="18px"> <b>Ether.js</b>.
+    <img src="img/solidity.svg" width="18px" height="18px"> <b>Solidity</b>, 
+    <img src="img/etherjs.svg" width="18px" height="18px"> <b>Ether.js</b>, and
+    <img src="img/web3js.svg" width="18px" height="18px"> <b>Web3.js</b>.
   </p>
 
   <p style="display: inline-block; vertical-align: middle;">
