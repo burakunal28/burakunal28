@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h2>👋 Hi there, I'm Burak ÜNAL</h2>
-  <p>I'm a skilled 💻 web developer with a strong understanding of 🎨 design and a keen interest in 🌐 Web3. I craft user-friendly and modern experiences.</p>
+  <p>I'm a skilled 💻 developer with a strong understanding of 🎨 design and a keen interest in 🌐 Web3. I craft user-friendly and modern experiences.</p>
 </div>
 
 <!-- Skills and Technologies -->
