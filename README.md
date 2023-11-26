@@ -27,7 +27,7 @@
     <img src="img/api.png" width="18px" height="18px"> <b>RESTful APIs</b> and 
     <img src="img/json.png" width="18px" height="18px"> <b>JSON API</b>, 
     and I create visually appealing and responsive websites using 
-    <img src="img/fluent-ui.svg" width="18px" height="18px"> <b>FLuent UI</b>, 
+    <img src="img/fluent-ui.svg" width="18px" height="18px"> <b>Fluent UI</b>, 
     <img src="img/tailwind.svg" width="18px" height="18px"> <b>Tailwind CSS</b>, and 
     <img src="img/sass.svg" width="18px" height="18px"> <b>SASS</b>. 
     When it comes to mobile and desktop applications, I'm well-versed in 
