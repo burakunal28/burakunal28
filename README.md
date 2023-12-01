@@ -50,10 +50,10 @@
   <p>Here are some of the projects I've had the pleasure of working on:</p>
   <table>
     <tr>
-      <td><a href="https://github.com/burakunal28/electron-react-fluentui-boilerplate">Electron-React-Fluent UI Boilerplate</a></td>
-      <td><a href="https://burakunal28.github.io/lyc">Love Your Cat</a></td>
-      <td><a href="https://burakunal28.github.io/colorful-notes">Colorful Notes</a></td>
-      <td><a href="https://burakunal28.github.io/prusa-social">Prusa Social</a></td>
+      <td><a href="https://github.com/burakunal28/electron-react-fluentui-boilerplate">Electron Boilerplate</a></td>
+      <td><a href="https://burakunal28.github.io/lyc">React Website</a></td>
+      <td><a href="https://burakunal28.github.io/colorful-notes">JavaScript App</a></td>
+      <td><a href="https://burakunal28.github.io/prusa-social">Bootstrap Project</a></td>
       <td><a href="https://www.figma.com/@burakunal">Design Projects</a></td>
     </tr>
   </table>
