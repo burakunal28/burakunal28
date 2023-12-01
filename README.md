@@ -53,7 +53,6 @@
       <td><a href="https://github.com/burakunal28/electron-react-fluentui-boilerplate">Electron Boilerplate</a></td>
       <td><a href="https://burakunal28.github.io/lyc">React Website</a></td>
       <td><a href="https://burakunal28.github.io/colorful-notes">JavaScript App</a></td>
-      <td><a href="https://burakunal28.github.io/prusa-social">Bootstrap Project</a></td>
       <td><a href="https://www.figma.com/@burakunal">Design Projects</a></td>
     </tr>
   </table>
