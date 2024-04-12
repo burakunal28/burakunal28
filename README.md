@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>👋 Hi there, I'm Burak ÜNAL</h2>
-  <p>I'm a skilled 💻 developer with a strong understanding of 🎨 design and a keen interest in 🌐 Web3. I craft user-friendly and modern experiences.</p>
+  <h2>👋 Hi there, I'm Burak</h2>
+  <p>I craft intuitive experiences in Figma 🎨 and transform them into fluent web, desktop, and mobile applications using React, Next.js, Electron, React Native, and Tauri 💻</p>
 </div>
 
 <!-- Skills and Technologies -->
