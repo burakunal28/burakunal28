@@ -9,39 +9,41 @@
   <h2>🚀 Web and App Development</h2>
   
   <p style="display: inline-block; vertical-align: middle;">
-    I'm proficient in a variety of programming languages including 
-    <img src="img/javascript.svg" width="18px" height="18px"> <b>JavaScript</b>, 
-    <img src="img/typescript.svg" width="18px" height="18px"> <b>TypeScript</b>, 
-    <img src="img/python.svg" width="18px" height="18px"> <b>Python</b>, and 
-    <img src="img/solidity.svg" width="18px" height="18px"> <b>Solidity</b>.
-    My expertise spans technologies such as 
-    <img src="img/react.svg" width="18px" height="18px"> <b>React.js</b>, 
-    <img src="img/next-js.svg" width="18px" height="18px"> <b>Next.js</b>,
-    I am also proficient in blockchain development using
-    <img src="img/etherjs.svg" width="18px" height="18px"> <b>Ether.js</b>, and
-    <img src="img/web3js.svg" width="18px" height="18px"> <b>Web3.js</b>.
-  </p>
+    I have experience in
+    <b>JavaScript</b>, 
+    <b>TypeScript</b>, 
+    <b>React</b>, 
+    <b>React Native</b>, 
+    <b>Electron</b>, 
+    <b>Tauri</b>, and
+    <b>Next.js</b>.
+    Additionally, I have familiarity with
+    <b>Python</b>, 
+    <b>Solidity</b>,
+    <b>Rust</b>, and
+    <b>C#</b>.
 
   <p style="display: inline-block; vertical-align: middle;">
-    I specialize in crafting seamless user experiences with 
-    <img src="img/api.png" width="18px" height="18px"> <b>RESTful APIs</b> and 
-    <img src="img/json.png" width="18px" height="18px"> <b>JSON API</b>, 
-    and I create visually appealing and responsive websites using 
-    <img src="img/fluent-ui.svg" width="18px" height="18px"> <b>Fluent UI</b>, 
-    <img src="img/tailwind.svg" width="18px" height="18px"> <b>Tailwind CSS</b>, and 
-    <img src="img/sass.svg" width="18px" height="18px"> <b>SASS</b>. 
-    When it comes to mobile and desktop applications, I'm well-versed in 
-    <img src="img/react-native.svg" width="18px" height="18px"> <b>React Native</b> and 
-    <img src="img/electron.svg" width="18px" height="18px"> <b>Electron</b>.
+    I'm skilled in UI/UX design, utilizing tools like 
+    <b>Figma</b>, 
+    <b>HTML</b>, 
+    <b>CSS</b>, 
+    <b>Sass</b>, 
+    <b>Tailwind CSS</b>, 
+    <b>Fluent UI</b>, and
+    <b>Ant Design</b>
+    ensuring the creation of visually engaging and user-friendly interfaces.
   </p>
     
   <p style="display: inline-block; vertical-align: middle;">
-    My creativity knows no bounds, whether it's designing user interfaces, prototypes, or logos using
-    <img src="img/figma.svg" width="18px" height="18px"> <b>Figma</b>,
-    <img src="img/framer.svg" width="18px" height="18px"> <b>Framer</b>, and
-    <img src="img/illustrator.svg" width="18px" height="18px"> <b>Illustrator</b>.
+    Furthermore, I have some knowledge of
+    <b>RESTful APIs</b>,
+    <b>JSON API</b>, 
+    <b>Git</b>, 
+    <b>Firebase</b>, and
+    <b>Vercel</b>,
+    which allows me to contribute to the integration of back-end systems and deployment processes.
   </p>
-    
 </div>
 
 <!-- Projects Section -->
