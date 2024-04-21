@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h2>👋 Hi there, I'm Burak</h2>
-  <p>I craft intuitive experiences in Figma 🎨 and transform them into fluent web, desktop, and mobile applications using React, Next.js, Electron, React Native, and Tauri 💻</p>
+  <p>I craft intuitive experiences🎨 and transform them into fluent web, desktop, and mobile applications 💻</p>
 </div>
 
 <!-- Skills and Technologies -->
