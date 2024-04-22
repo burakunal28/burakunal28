@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>👋 Hi there, I'm Burak</h2>
+  <h2>I'm Burak</h2>
   <p>I craft intuitive experiences🎨 and transform them into fluent web, desktop, and mobile applications 💻</p>
 </div>
 
