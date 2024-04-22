@@ -6,7 +6,7 @@
 
 <!-- Skills and Technologies -->
 <div align="center">
-  <h2>🚀 Web and App Development</h2>
+  <h2>Web and App Development</h2>
   
   <p style="display: inline-block; vertical-align: middle;">
     I have experience in
@@ -48,7 +48,7 @@
 
 <!-- Projects Section -->
 <div align="center">
-  <h2>🚧 My Projects</h2>
+  <h2>My Projects</h2>
   <p>Here are some of the projects I've had the pleasure of working on:</p>
   <table>
     <tr>
@@ -63,7 +63,7 @@
 
 <!-- Contact Section -->
 <div align="center">
-  <h3>📞 Get in Touch</h3>
+  <h3>Get in Touch</h3>
   <p>If you're interested in my projects or want to collaborate, don't hesitate to reach out!</p>
   <a href="https://linktr.ee/burakunal28"><strong>Personal Website</strong></a>
 </div>
