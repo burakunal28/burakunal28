@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h2>I'm Burak</h2>
-  <p>I craft intuitive experiences🎨 and transform them into fluent web, desktop, and mobile applications 💻</p>
+  <p>I'm experienced in creating web, desktop, and mobile apps using TypeScript/JavaScript libraries. I deliver smooth user experiences with frameworks like Tailwind CSS and Fluent UI. I'm also skilled in copywriting and fluent in German and English.</p>
 </div>
 
 <!-- Skills and Technologies -->
