@@ -1,7 +1,8 @@
 <!-- Introduction -->
 <div align="center">
   <h2>I'm Burak</h2>
-  <p>I'm experienced in creating web, desktop, and mobile apps using TypeScript/JavaScript libraries. I deliver smooth user experiences with frameworks like Tailwind CSS and Fluent UI. I'm also skilled in copywriting and fluent in German and English.</p>
+  <p>I build smooth web, desktop, and mobile apps. I use various popular frameworks
+and libraries. I have skills in UI design, branding, and project management.</p>
 </div>
 
 <!-- Skills and Technologies -->
@@ -19,8 +20,7 @@
     <b>Next.js</b>.
     Additionally, I have familiarity with
     <b>Python</b>, 
-    <b>Solidity</b>,
-    <b>Rust</b>, and
+    <b>Solidity</b>, and
     <b>C#</b>.
 
   <p style="display: inline-block; vertical-align: middle;">
