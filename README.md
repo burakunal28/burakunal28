@@ -11,7 +11,6 @@ and libraries. I have skills in UI design, branding, and project management.</p>
   <table>
     <tr>
       <td><a href="https://github.com/burakunal28/electron-react-fluentui-boilerplate">Electron Fluent UI Boilerplate</a></td>
-      <td><a href="https://github.com/burakunal28/love-your-cat">React Project</a></td>
       <td><a href="https://github.com/burakunal28/colorful-notes">JavaScript Project</a></td>
       <td><a href="https://www.figma.com/@burakunal">Design Projects</a></td>
     </tr>
