@@ -17,10 +17,3 @@ and libraries. I have skills in UI design, branding, and project management.</p>
     </tr>
   </table>
 </div>
-
-<!-- Contact Section -->
-<div align="center">
-  <h3>Get in Touch</h3>
-  <p>If you're interested in my projects or want to collaborate, let's connect for more</p>
-  <a href="https://linktr.ee/burakunal28"><strong>Personal Website</strong></a>
-</div>
