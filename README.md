@@ -1,8 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h2>I'm Burak</h2>
-  <p>I build smooth web, desktop, and mobile apps. I use various popular frameworks
-and libraries. I have skills in UI design, branding, and project management.</p>
+  <p>I craft intuitive experiences and transform them into fluent web, desktop, and mobile applications.</p>
 
 <!-- Projects Section -->
 <div align="center">
