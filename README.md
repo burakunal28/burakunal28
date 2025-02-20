@@ -24,7 +24,7 @@
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="32" height="32" /><br>Next.js
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="32" height="32" /><br>React Native
+        <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="32" height="32" /><br>R.Native
       </td>
       <td align="center" width="80">
         <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="32" height="32" /><br>Electron
