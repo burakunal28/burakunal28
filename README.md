@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <p>I craft intuitive experiences and transform them into fluent web, desktop, and mobile applications. Experienced in planning, developing, and optimizing scalable full-stack applications with modern technologies.</p>
+  <p>I design intuitive experiences and develop scalable full-stack web, desktop, and mobile applications using modern technologies.</p>
   <table>
     <tr>
       <td align="center" width="80">
