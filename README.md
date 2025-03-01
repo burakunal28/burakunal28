@@ -1,6 +1,5 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>I'm Burak</h2>
   <p>I craft intuitive experiences and transform them into fluent web, desktop, and mobile applications. Experienced in planning, developing, and optimizing scalable full-stack applications with modern technologies.</p>
   <table>
     <tr>
@@ -60,7 +59,6 @@
 <!-- Projects Section -->
 <div align="center">
   <h2>Projects</h2>
-  <p>Here are some of the projects I've had the pleasure of working on:</p>
   <table>
     <tr>
       <td><a href="https://github.com/burakunal28/kebap-nextjs-tailwind">Next.js Website</a></td>
