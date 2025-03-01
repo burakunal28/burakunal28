@@ -1,11 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h2>I'm Burak</h2>
-  <p>I craft intuitive experiences and transform them into fluent web, desktop, and mobile applications.</p>
-
-<div align="center">
-  <h2>Hard Skills</h2>
-  <p>Experienced in planning, developing, and optimizing scalable full-stack applications with modern technologies.</p>
+  <p>I craft intuitive experiences and transform them into fluent web, desktop, and mobile applications. Experienced in planning, developing, and optimizing scalable full-stack applications with modern technologies.</p>
   <table>
     <tr>
       <td align="center" width="80">
